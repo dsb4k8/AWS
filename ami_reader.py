@@ -88,14 +88,9 @@ def group_amis_by_product(response):
 	# amis = amis = preprocess_str(b3r)
 	# response = b3c.describe_images(ImageIds = amis)["Images"]
 
+
+###Demo Call
 # 	pprint(get_untagged_amis(response))
-# # 	###############
-# # 	#-------------#
-# 	###TEST METHODS###
-# 	# pprint(preprocess_str(b3r))
-# 	# pprint(get_untagged_amis(response))
-# 	# pprint(group_amis_by_team(response))
-# 	# pprint(group_amis_by_product(response))
 
 
 
