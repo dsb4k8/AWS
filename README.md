@@ -17,7 +17,7 @@
 - S3: Amazon S3 is a cloud computing web service offered by Amazon Web Services. Amazon S3 provides object storage through web services interfaces.
 - SG: A security group is a set of IP filter rules that define how to handle incoming (ingress) and outgoing (egress) traffic to both the public and private interfaces of a virtual server instance.
 - Snapshot: Snapshots are incremental backups, which means that only the blocks on the device that have changed after your most recent snapshot are saved. This minimizes the time required to create the snapshot and saves on storage costs by not duplicating data.
-- Volumes: An Amazon EBS volume is a durable, block-level storage device that you can attach to a single EC2 instance. ... After a volume is attached to an instance, you can use it like any other physical hard drive.
+- Volumes: An Amazon EBS volume is a durable, block-level storage device that you can attach to a single EC2 instance. After a volume is attached to an instance, you can use it like any other physical hard drive.
 ## Motivaton
 Since cloud computing serices are becoming more affordable compared to hosting services locally, it is beneficial to enterprises to build and integrate solutions on top of this existing the exising infastructure. 
 ###### AWS Pros:
